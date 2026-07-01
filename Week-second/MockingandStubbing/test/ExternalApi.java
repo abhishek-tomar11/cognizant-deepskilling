@@ -1,4 +1,4 @@
-package Week-second.MockingandStubbing.test;
+//package Week-second.MockingandStubbing.test;
 
 public class ExternalApi {
     
