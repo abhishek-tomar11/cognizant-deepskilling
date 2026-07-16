@@ -52,7 +52,7 @@ window.onload = function() {
   }
 };
 
-// Geolocation
+// Geolocation .. 
 function findEvents() {
   if (navigator.geolocation) {
     navigator.geolocation.getCurrentPosition(
